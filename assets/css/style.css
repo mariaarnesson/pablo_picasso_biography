@@ -108,3 +108,42 @@ margin-top: 0%;
     bottom: 0%;
     margin-right: 500px;
   }
+  footer {
+    height: 150px;
+}
+
+.social-networks {
+    text-align: center;
+}
+
+.social-networks > li {
+    display: inline;
+}
+
+.social-networks i {
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
+    color: #3a3a3a;
+}
+
+  
+
+
+.social-networks {
+  text-align: center;
+  height: 150px;
+  background-color:#3a3a3a;
+}
+
+.social-networks > div {
+  display: inline;
+  color:#a69c95;
+  text-align: center;
+}
+
+.social-networks i {
+  font-size: 160%;
+  margin: 1%;
+  padding: 5%;
+  color:beige;}
