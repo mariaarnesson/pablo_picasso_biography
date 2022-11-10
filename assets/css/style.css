@@ -23,18 +23,18 @@ nav > a:hover {
 }
 /* text-description */
 #description {
-    font-size: 50%;
-    font-family: Oswald, sans-serif;
-    text-transform: uppercase;
-    letter-spacing: 3px;
-    width: 350px;
-    height: 350px;
-    padding-top: 30px;
-    padding-left: 20px;
-    background-color: rgba(142, 179, 158, 0.511);
-    bottom: 50px;
-    right: 150px;
-    position:static;
+  font-size: 150%;
+  font-family: Oswald, sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  width: 350px;
+  height: 350px;
+  padding-top: 30px;
+  padding-left: 20px;
+  background-color: rgba(142, 179, 158, 0.511);
+  bottom: 50px;
+  right: 150px;
+  position:absolute;
     }
 #description, #description h2 {
 color: #fff;
@@ -65,14 +65,14 @@ margin-top: 0%;
   #first-picture {
     height: 500px;
     width: 1500;
-      background-image:url(../image/love.webp);
+      background-image:url(../images/love.webp);
       background-repeat: no-repeat;
       margin-top: 30px;
       margin-right: 800px;
       margin-left: 100px;
   }
     #picture-brushes {
-      background-image:url(../image/pexels-photo-5208694.jpeg);
+      background-image:url(../images/pexels-photo-5208694.jpeg);
       background-repeat: no-repeat;
       text-align: center center;
       margin-top: 50px;
@@ -97,7 +97,7 @@ margin-top: 0%;
     }
   #period { 
     position: relative;
-    top: -400px;
+    top: -600px;
     left: 500px;
     right: 3000px;
     width: 30%;
