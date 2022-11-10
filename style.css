@@ -56,3 +56,55 @@ text-emphasis:inherit;
 letter-spacing: 8px;
 margin-top: 0%;
 }
+#start {
+    height: 500px;
+    width: 100%;
+    position: relative;
+  }
+  
+  #first-picture {
+    height: 500px;
+    width: 1500;
+      background-image:url(../image/love.webp);
+      background-repeat: no-repeat;
+      margin-top: 30px;
+      margin-right: 800px;
+      margin-left: 100px;
+  }
+    #picture-brushes {
+      background-image:url(../image/pexels-photo-5208694.jpeg);
+      background-repeat: no-repeat;
+      text-align: center center;
+      margin-top: 50px;
+      margin-left: 40px;
+      width: 1500px;
+      height: 1000px;
+      padding-top: -5000%;
+      bottom: -500px;
+    }
+    #about-pablo {
+      position: relative;
+      top: 60px;
+      left: 50px;
+      right: 50px;
+      width: 30%;
+      padding: 0%;
+      display: block;
+      margin: 40px;
+      text-align: center center;
+      bottom: 80%;
+      margin-right: 0%;
+    }
+  #period { 
+    position: relative;
+    top: -400px;
+    left: 500px;
+    right: 3000px;
+    width: 30%;
+    padding: 0%;
+    display: block;
+    margin: 80px;
+    text-align: center center;
+    bottom: 0%;
+    margin-right: 500px;
+  }
